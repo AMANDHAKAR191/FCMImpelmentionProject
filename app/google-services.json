@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "613644698170",
+    "firebase_url": "https://talkmate-chat-default-rtdb.firebaseio.com",
+    "project_id": "talkmate-chat",
+    "storage_bucket": "talkmate-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613644698170:android:13f1df81f7ebbffaf06b03",
+        "android_client_info": {
+          "package_name": "com.aman.fcmimplementationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613644698170-mmuobj0thns9s3l4iqskhmbnahl09mpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aman.fcmimplementationproject",
+            "certificate_hash": "4f97e02055c7fd705283df924a881b35c470a561"
+          }
+        },
+        {
+          "client_id": "613644698170-6hcenps4j8cld56cg666pq7fipc5h8t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAWW4FQ4HA7mxm2Hn58d-pvyQ0w1SGbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613644698170-5hie5m21ifn92ccscm0sdkh4j9o74kkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613644698170:android:a2a7b1ba69770bb0f06b03",
+        "android_client_info": {
+          "package_name": "com.talkmate.aman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613644698170-18979mrf4vr80b0dpj8699at1mkfmo66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talkmate.aman",
+            "certificate_hash": "4f97e02055c7fd705283df924a881b35c470a561"
+          }
+        },
+        {
+          "client_id": "613644698170-6hcenps4j8cld56cg666pq7fipc5h8t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAWW4FQ4HA7mxm2Hn58d-pvyQ0w1SGbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613644698170-5hie5m21ifn92ccscm0sdkh4j9o74kkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
